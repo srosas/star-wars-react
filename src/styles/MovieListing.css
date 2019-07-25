@@ -1,0 +1,13 @@
+.movie-listing {
+  border: 2px solid #e8e400;
+  border-radius: 20px;
+  padding: 5px;
+  margin: 10px;
+  height: 150px;
+  width: 200px;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: bold;
+}

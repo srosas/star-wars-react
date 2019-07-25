@@ -1,0 +1,11 @@
+.movie-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex: 1;
+  height: 70px;
+  width: 100%;
+}
+.movie-character{
+  text-align: center
+}
