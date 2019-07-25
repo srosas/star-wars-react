@@ -40,7 +40,8 @@ class App extends Component {
           },
           this.getAllMovies
         )
-      });
+      })
+      .catch(err => alert(err));
   }
 
   getAllMovies() {
@@ -61,7 +62,8 @@ class App extends Component {
               releaseDate: (new Date(data.release_date)).toDateString()
             }],
         }))
-      });
+      })
+      .catch(err => alert(err));
   }
 
   render() {
