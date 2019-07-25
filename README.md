@@ -4,7 +4,3 @@ A simple Star Wars character search App that returns movies a character has been
 To install
 ### `npm install`
 ### `npm start`
-
-
-
-# star-wars-react
