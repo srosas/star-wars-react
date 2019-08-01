@@ -1,6 +1,7 @@
 import React from 'react';
 import '../styles/MovieListing.css'
 
+//movieListing
 const MovieListing = (props) => {
   const { title, release } = props;
 
